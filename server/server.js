@@ -45,4 +45,4 @@ app.post('/', async (req, res) => {
     }
 })
 
-app.listen(5000, () => console.log('server is running on port https://cyber-6y9f.onrender.com'));
+app.listen(5000, () => console.log('server is running on port https://cyber-rwie.onrender.com/'));
